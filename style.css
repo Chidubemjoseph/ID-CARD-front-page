@@ -1,0 +1,48 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.Card {
+    background: rgb(241,249,255);
+    background: linear-gradient(180deg) rgb(59, 99, 129) 1%, rbga(166,216,221,1) 100%;
+    /* border: 2PX solid rgb(183, 185, 180); */
+    align-items: center;
+
+}
+
+.Header {
+    background: rgb(9, 126,36);
+    background: linear-gradient(90deg, rgba(9,129,36,i) 0%, rgba(9,126,36,1) 31%, rgba(255,255,255,1)50%, rgba(255,255,1) 65%, rgba(3,131,43,1) 68%, rgba(13, 149, 56,1) 100%);
+    text-align: center;
+}
+img {
+    width: 15rem; 
+    height: 19rem;
+}
+.row h2, h3, h4, h5, h6 {
+    font-size: 13px;
+    word-spacing: px;
+} 
+.row {
+    height: 300px;
+    float: left;
+    font-size: 15px;
+} 
+/* .row h5 {
+    word-spacing: 60px;
+    line-height: 1px;
+} */
+/* .row h6 {
+    word-spacing: 830px;
+    line-height: 1px;
+} */
+/* .row h2 {
+    word-spacing: 148px;
+    line-height: 1px;
+} */
+.Footer{
+    background-color: #ffff;
+    height: 8vh;
+    font-size: 18px;
+}
